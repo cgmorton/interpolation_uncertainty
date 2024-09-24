@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTest
+.pytest_cache
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm project settings
+.idea
+
+# MacOS
+.DS_Store
